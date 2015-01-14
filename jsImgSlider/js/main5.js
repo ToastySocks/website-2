@@ -9,7 +9,7 @@ window.onload = function() {
 
 
 	var width = 900;
-	var height = 300;
+	var height = 50;
 	var objects  = new Array();
 	var numObjects = 19;
 
