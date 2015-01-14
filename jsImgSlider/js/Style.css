@@ -1,6 +1,10 @@
 /* CSS Document */
-html,body { margin:0; padding:0 }
-#bannercanvas {
-	display:block; 
+html,body { 
+  margin:0; 
+  padding:0;
+}
 
+#bannercanvas {
+  display: block;
+  opacity: 1;
 }
