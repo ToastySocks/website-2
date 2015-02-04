@@ -8,10 +8,10 @@ window.onload = function() {
 
 
 
-	var width = 900;
-	var height = 50;
+	var width = 2000;
+	var height = 200;
 	var objects  = new Array();
-	var numObjects = 19;
+	var numObjects = 23;
 
 
 
